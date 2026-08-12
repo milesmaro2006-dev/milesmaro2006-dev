@@ -1,16 +1,21 @@
-## Hi there 👋
+# Amr Shaban
+## OSCP | Penetration Tester
 
-<!--
-**milesmaro2006-dev/milesmaro2006-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 About Me
+- OSCP-certified Penetration Tester
+- Web, Mobile & Hardware Security
+- Python Automation
+- TryHackMe Level 8 - Hacker (Top 15%)
 
-Here are some ideas to get you started:
+### 🛠️ Projects
+- **[SpiderForge](https://github.com/milesmaro2006-dev/SpiderForge)** - Web Security Assessment Platform
+- **[NeuroSnare](https://github.com/milesmaro2006-dev/NeuroSnare)** - AI-Powered IDS/IPS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 TryHackMe
+- Level: 8 - HACKER
+- Rank: Top 15%
+- Completed Rooms: 41
+
+### 📫 Connect
+- [LinkedIn](linkedin.com/in/amr-shaban-2465153a6)
+- [TryHackMe](https://tryhackme.com/p/Amrshaban2006)
