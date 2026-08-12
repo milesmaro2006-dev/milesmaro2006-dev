@@ -17,5 +17,5 @@
 - Completed Rooms: 41
 
 ### 📫 Connect
-- [LinkedIn](www.linkedin.com/in/amr-shaban-2465153a6)
+- [LinkedIn](https://www.linkedin.com/in/amr-shaban-2465153a6)
 - [TryHackMe](https://tryhackme.com/p/Amrshaban2006)
